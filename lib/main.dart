@@ -18,10 +18,10 @@ class MyApp extends StatelessWidget {
               children: <Widget>[
                 const CircleAvatar(
                   radius: 50.0,
-                  backgroundImage: AssetImage('images/anhthe.jpg'),
+                  backgroundImage: AssetImage('images/angela.jpg'),
                 ),
                 const Text(
-                  'An Toan',
+                  'Angela Yu',
                   style: TextStyle(
                     fontFamily: 'Pacifico',
                     fontSize: 40.0,
@@ -54,7 +54,7 @@ class MyApp extends StatelessWidget {
                         color: Colors.teal,
                       ),
                       title: Text(
-                        '096 7070 842',
+                        '+44 123 456 789',
                         style: TextStyle(
                           color: Colors.teal.shade900,
                           fontFamily: 'Source Sans Pro',
@@ -70,7 +70,7 @@ class MyApp extends StatelessWidget {
                         color: Colors.teal,
                       ),
                       title: Text(
-                        'antoannguyen66@email.com',
+                        'angela@email.com',
                         style: TextStyle(
                             fontSize: 20.0,
                             color: Colors.teal.shade900,
